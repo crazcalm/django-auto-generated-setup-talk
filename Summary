@@ -1,0 +1,18 @@
+Can you send me:
+Talk title;
+A paragraph for talk description;
+Speaker name;
+Short paragraph or a sentence about yourself;
+
+
+## Title:
+- A Peek Behind the Curtains: How Django Auto-Generates the Initial Setup.
+
+## Talk Description:
+In this talk, we will take an introspective look at how Django auto-generates files and walk through what actually happens when you run`django-admin startproject mysite`.
+
+## Speaker Name:
+Marcus Willock
+
+## About Me:
+I am a python dev that dreams of getting more sleep #WorksInTheCityButLivesInJersey
